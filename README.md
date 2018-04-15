@@ -36,4 +36,4 @@ An intuitive way to view downside risk is the annualized standard deviation of r
 ## Useage of Sortino
 The Sortino ratio is used to score a portfolio's risk-adjusted returns relative to an investment target using downside risk. This is analogous to the Sharpe ratio, which scores risk-adjusted returns relative to the risk-free rate using standard deviation. When return distributions are near symmetrical and the target return is close to the distribution median, these two measure will produce similar results. As skewness increases and targets vary from the median, results can be expected to show dramatic differences.
 
-
+![alt text](https://i.investopedia.com/inv/dictionary/terms/sortinoratio.gif "Logo Title Text 1")
