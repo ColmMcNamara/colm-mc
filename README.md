@@ -6,14 +6,8 @@ Sharpe Ratio
 
 ## Sharpe Ratio Uses
  The Sharpe ratio characterizes how well the return of an asset compensates the investor for the risk taken. When comparing two assets versus a common benchmark, the one with a higher Sharpe ratio provides better return for the same risk (or, equivalently, the same return for lower risk). However, like any other mathematical model, it relies on the data being correct.Sharpe ratio is defined as, 
- 
- S_a = /frac{E[R_a-R_b]}{/sigma_a} = /frac{E[R_a-R_b]}{/sqrt{/mathrm{var}[R_a-R_b]}},
- 
- where 
- {\displaystyle R_{a}} R_{a} is the asset return, 
- {\displaystyle R_{b}} R_b is the risk free rate. 
- {\displaystyle E[R_{a}-R_{b}]} E[R_a-R_b] is the expected value of the excess of the asset return over the benchmark return, 
- {\displaystyle {\sigma _{a}}} {\displaystyle {\sigma _{a}}} is the standard deviation of the asset excess return.
+  
+![alt text](https://cdn.corporatefinanceinstitute.com/assets/sharpe-ratio.png "Logo Title Text 1")
 
 When examining the investment performance of assets with smoothing of returns (such as with-profits funds) the Sharpe ratio should be derived from the performance of the underlying assets rather than the fund returns.
 
