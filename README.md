@@ -19,7 +19,8 @@ When examining the investment performance of assets with smoothing of returns (s
 
 Sharpe's 1994 revision acknowledged that the basis of comparison should be an applicable benchmark, which changes with time. After this revision, the definition is:
 
-{\displaystyle S={\frac {E[R-R_{b}]}{\sqrt {\mathrm {var} [R-R_{b}]}}}.} S = \frac{E[R-R_b]}{\sqrt{\mathrm{var}[R-R_b]}}.
+![alt text](http://www.statpro.com/wp-content/uploads/2012/05/sharpe.png "Logo Title Text 1")
+
 
 ## Strengths and Weaknesses of Sharpe's Ratio
  The main complaint is this ratio relies on the notions that risk equals volatility and that volatility is bad. Simple logic will tell you that the more you reduce volatility, the less likely you are to be able to capture higher returns. But the bigger problem for the Sharpe ratio is that it treats all volatility the same. Basically, the ratio penalizes strategies that have upside volatility (i.e., big positive returns), but those that developed other risk adjusted ratios just don’t think big positive returns should be viewed as a negative thing. The Sharpe ratio has as its principal advantage that it is directly computable from any observed series of returns without need for additional information surrounding the source of profitability. Other ratios such as the bias ratio have recently been introduced into the literature to handle cases where the observed volatility may be an especially poor proxy for the risk inherent in a time-series of observed returns.
