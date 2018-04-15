@@ -34,7 +34,16 @@ An intuitive way to view downside risk is the annualized standard deviation of r
 
 {\displaystyle DR={\sqrt {\int _{-\infty }^{T}(T-r)^{2}f(r)\,dr}}} DR={\sqrt  {\int _{{-\infty }}^{T}(T-r)^{2}f(r)\,dr}}
 
-## Useage of Sortino
+## Alternatives to the Sharpe Ratio
 The Sortino ratio is used to score a portfolio's risk-adjusted returns relative to an investment target using downside risk. This is analogous to the Sharpe ratio, which scores risk-adjusted returns relative to the risk-free rate using standard deviation. When return distributions are near symmetrical and the target return is close to the distribution median, these two measure will produce similar results. As skewness increases and targets vary from the median, results can be expected to show dramatic differences.
 
 ![alt text](https://i.investopedia.com/inv/dictionary/terms/sortinoratio.gif "Logo Title Text 1")
+
+## Sharpe Ratio Example
+For example, let's assume that you expect your stock portfolio to return 12% next year. If returns on risk-free Treasury notes are, say, 5%, and your portfolio carries a 0.06 standard deviation, then from the formula above we can calculate that the Sharpe ratio for your portfolio is:
+
+(0.12 - 0.05)/0.06 = 1.17
+
+This means that for every point of return, you are shouldering 1.17 "units" of risk.
+
+Put another way, if portfolio X generates a 10% return with a 1.25 Sharpe ratio and portfolio Y also generates a 10% return with a 1.00 Sharpe ratio, then X is the better portfolio because it achieves the same return with less risk.
