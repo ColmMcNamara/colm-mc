@@ -1,4 +1,4 @@
-Sharpe Ratio
+#Sharpe Ratio
 
 
  The Sharpe Ratio is a mathematical method to examine the performance of an investment by adjusting the price. The ratio measures the excess return (or risk premium) per unit of deviation in an investment asset or a trading strategy.
