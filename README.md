@@ -47,3 +47,7 @@ For example, let's assume that you expect your stock portfolio to return 12% nex
 This means that for every point of return, you are shouldering 1.17 "units" of risk.
 
 Put another way, if portfolio X generates a 10% return with a 1.25 Sharpe ratio and portfolio Y also generates a 10% return with a 1.00 Sharpe ratio, then X is the better portfolio because it achieves the same return with less risk.
+
+The higher the Sharpe ratio is, the more return the investor is getting per unit of risk. The lower the Sharpe ratio is, the more risk the investor is shouldering to earn additional returns. Thus, the Sharpe ratio ultimately "levels the playing field" among portfolios by indicating which are shouldering excessive risk.
+
+## Conclusion
